@@ -5,4 +5,4 @@ In this post, I'll share a project that emerged during the pandemic, where I cre
 
 Later on, this project gained momentum as I wanted to delve into the streaming world, leading me to develop a more refined version 1 compared to the initial version.
 
-[https://codecraftavila.super.site/db/create-your-own-steam-deck-from-scratch-v10](https://codecraftavila.super.site/db/create-your-own-steam-deck-from-scratch-v10)https://codecraftavila.super.site/db/create-your-own-steam-deck-from-scratch-v10
+[https://codecraftavila.super.site/db/create-your-own-steam-deck-from-scratch-v10](https://codecraftavila.super.site/db/create-your-own-steam-deck-from-scratch-v10)
